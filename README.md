@@ -1,4 +1,3 @@
-**Fortune-Adekogbe/Fortune-Adekogbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align='center'>Hi there👋, I'm Fortune</h1>
 
 <p align='center'>I do machine learning, mobile and web development. I also build bots with Python and Azure bot framework.</p>
@@ -24,6 +23,7 @@
 </p>
 </p>
 
+<a href='https://www.freepik.com/vectors/watercolor'>Watercolor vector created by starline - www.freepik.com</a>
 <!--
 Here are some ideas to get you started:
 
