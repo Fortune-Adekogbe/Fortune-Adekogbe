@@ -1,8 +1,8 @@
 **Fortune-Adekogbe/Fortune-Adekogbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align='center'>Hi there👋, I'm Fortune</h1>
 
-<p align='center'>I do Machine Learning, mobile and web development. I also build bots with Python and Azure bot framework.</p>
-<p align='center'>📫 How to reach me:</p>
+<p align='center'>I do machine learning, mobile and web development. I also build bots with Python and Azure bot framework.</p>
+<h2 align='center'><b>📫 How to reach me: </b></h2>
 <p align='center'>
 <a href="https://wa.me/2348180454128?text=Hello Fortune" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
