@@ -4,7 +4,7 @@
 <h2 align='center'><b>📫 How to reach me: </b></h2>
 <p align='center'>
 <a href="https://wa.me/2348180454128?text=Hello Fortune" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/whatsapp.png" width="40" height="0" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/fortsadek" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
@@ -22,8 +22,14 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fortune-adekogbe&hide=jupyter-notebook,java,html&theme=tokyonight">
 </p>
 </p>
-
-<a href='https://www.freepik.com/vectors/watercolor'>Watercolor vector created by starline - www.freepik.com</a>
+<h6>
+  <div>Icons made by:
+    <ul>
+      <li><a href='https://icon54.com/'>Pixel perfect - www.freepik.com</a></li>
+      <li><a href='https://www.flaticon.com/packs/logos-3'>Freepik - www.freepik.com</a></li>
+    </div>
+  </h6>
+  </ul>
 <!--
 Here are some ideas to get you started:
 
