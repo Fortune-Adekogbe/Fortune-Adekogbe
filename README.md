@@ -4,18 +4,21 @@
 <h2 align='center'><b>📫 How to reach me: </b></h2>
 <p align='center'>
 <a href="https://wa.me/2348180454128?text=Hello Fortune" target="_blank">
-  <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/whatsapp.png" width="40" height="0" />
+  <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/whatsapp.png" width="40" height="40" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/fortsadek" target="_blank">
-  <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/twitter.png" width="40" height="0" />
+  <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/twitter.png" width="40" height="40" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/fortune-adekogbe-a81580176" target="_blank">
-  <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/linkedin.png" width="40" height="0" />
+  <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/linkedin.png" width="40" height="40" />
+</a>&nbsp;&nbsp;
+<a href="www.t.me/phortz" target="_blank">
+  <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/telegram.png" width="40" height="40" />
 </a>&nbsp;&nbsp;
 <a href="mailto:fortuneadekogbe@gmail.com" target="_blank">
-  <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/gmail.png" width="40" height="0" />
-</a>&nbsp;&nbsp;
-  <img src="https://gpvc.arturio.dev/fortune-adekogbe" />
+  <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/gmail.png" width="40" height="40" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://gpvc.arturio.dev/fortune-adekogbe" width="150" height="30"/>
   
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=fortune-adekogbe&show_icons=true&theme=tokyonight&line_height=27">
