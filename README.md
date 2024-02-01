@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there👋, I'm Fortune</h1>
 
-<p align='center'>I do machine learning, mobile and web development. I also build bots with Python and Azure bot framework.</p>
+<p align='center'>I am a Python developer focusing on machine learning and back-end engineering. I'm also a process engineer.</p>
 <h2 align='center'><b>📫 How to reach me: </b></h2>
 <p align='center'>
 <a href="https://wa.me/2348180454128?text=Hello Fortune" target="_blank">
@@ -36,11 +36,9 @@
 <!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning mobile development with flutter
-- 👯 I’m looking to collaborate on machine learning projects, web development and bot building projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m working on a Food price monitoring and prediction system.
+- 🌱 I’m currently learning Rust.
+- 👯 I’m looking to collaborate on machine learning projects
+- 💬 Ask me about theoretical physics, astronomy, psychology, machine learning, and chemical engineering.
+- ⚡ Fun fact: By reading up to this point, we have both contributed to increasing the entropy of the universe.
 -->
