@@ -37,6 +37,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m working on a Food price monitoring and prediction system.
+- 🔌 I'm working on an open-source project that tracks and utilizes data from the Nigerian national grid.
 - 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on machine learning projects
 - 💬 Ask me about theoretical physics, astronomy, psychology, machine learning, and chemical engineering.
