@@ -20,11 +20,12 @@
 </a>
 
 Here are some ideas to get you started:
-
-- 🔭 I’m working on a Food price monitoring and prediction system.
+- ⏩ I'm working on accelerating the solution of the most difficult kind of optimization problems using graph-based and data-driven methods.
 - 🔌 I'm working on an open-source project that tracks and utilizes data from the Nigerian national grid.
+- 🔭 I’m working on a Food price monitoring and prediction system.
 - 🌱 I’m currently learning Rust.
-- 👯 I’m looking to collaborate on machine learning projects
+- ⌚ I have built intelligent systems using music, language, high-res microscopy images, and good old tabular data.
+- 👯 I’m open to collaborating on intriguing machine learning projects
 - 💬 Ask me about theoretical physics, astronomy, psychology, machine learning, and chemical engineering.
 - ⚡ Fun fact: By reading up to this point, we have both contributed to increasing the entropy of the universe.
 
