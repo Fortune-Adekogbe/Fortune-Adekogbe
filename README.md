@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there👋, I'm Fortune</h1>
 
-<p align='center'>I am a Python developer focusing on machine learning and back-end engineering. I'm also a process engineer.</p>
+<p align='center'>During the day, I am a Ph.D. candidate at the University of Michigan doing research at the intersection of constrained optimization, graph theory, and machine learning. At night, I'm a Python developer who dabbles in backend engineering, data engineering, and hating on JavaScript developers.</p>
 <h2 align='center'><b>📫 How to reach me: </b></h2>
 <p align='center'>
 <a href="https://wa.me/2348180454128?text=Hello Fortune" target="_blank">
@@ -22,16 +22,15 @@
 Here are some ideas to get you started:
 - ⏩ I'm working on accelerating the solution of the most difficult kind of optimization problems using graph-based and data-driven methods.
 - 🔌 I'm working on an open-source project that tracks and utilizes data from the Nigerian national grid.
-- 🔭 I’m working on a Food price monitoring and prediction system.
-- 🌱 I’m currently learning Rust.
-- ⌚ I have built intelligent systems using music, language, high-res microscopy images, and good old tabular data.
+- ⌚ I have built intelligent systems using all sorts of data from music, language, and high-res microscopy images, to good old tabular data.
 - 👯 I’m open to collaborating on intriguing machine learning projects
 - 💬 Ask me about theoretical physics, astronomy, psychology, machine learning, and chemical engineering.
 - ⚡ Fun fact: By reading up to this point, we have both contributed to increasing the entropy of the universe.
 
   
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=fortune-adekogbe&show_icons=true&theme=tokyonight&line_height=27">
+  
+  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=fortune-adekogbe&show_icons=true&theme=tokyonight&line_height=27"> -->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fortune-adekogbe&hide=jupyter-notebook,java,html&theme=tokyonight">
 </p>
 </p>
