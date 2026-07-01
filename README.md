@@ -20,9 +20,9 @@
 </a>
 
 Here are some ideas to get you started:
-- ⏩ I'm working on accelerating the solution of the most difficult kind of optimization problems using graph-based and data-driven methods.
+- ⏩ I'm accelerating the solution of the most difficult kind of optimization problems using graph-based and data-driven methods.
 - 🔌 I'm working on an open-source project that tracks and utilizes data from the Nigerian national grid.
-- ⌚ I have built intelligent systems using all sorts of data from music, language, and high-res microscopy images, to good old tabular data.
+- ⌚ I have built intelligent systems using all sorts of data from text, music, and high-res microscopy images, to good old tabular data.
 - 👯 I’m open to collaborating on intriguing machine learning projects
 - 💬 Ask me about theoretical physics, astronomy, psychology, machine learning, and chemical engineering.
 - ⚡ Fun fact: By reading up to this point, we have both contributed to increasing the entropy of the universe.
