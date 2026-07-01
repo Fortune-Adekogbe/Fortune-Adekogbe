@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there👋, I'm Fortune</h1>
 
-<p align='center'>During the day, I am a Ph.D. candidate at the University of Michigan doing research at the intersection of constrained optimization, graph theory, and machine learning. At night, I'm a Python developer who dabbles in backend engineering, data engineering, and hating on JavaScript developers.</p>
+<p align='left'>During the day, I am a Ph.D. candidate at the University of Michigan doing research at the intersection of constrained optimization, graph theory, and machine learning. At night, I'm a Python developer who dabbles in backend engineering, data engineering, and hating on JavaScript developers.</p>
 <h2 align='center'><b>📫 How to reach me: </b></h2>
 <p align='center'>
 <a href="https://wa.me/2348180454128?text=Hello Fortune" target="_blank">
